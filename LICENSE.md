@@ -1,4 +1,4 @@
-
+Hide.me automatic Client: WireGuard-support & PPTP-support is the best Hide.me client, featuring WireGuard-support and PPTP-support. Secure, fast, and optimized for privacy.
 
 
 
